@@ -1,0 +1,34 @@
+{
+  "name": "nonmagnam",
+  "description": "Pure JS implementation of the DOM Level 3 XPath specification",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LiaFlatley/nonmagnam.git"
+  },
+  "main": "dist/wgxpath.install-node.js",
+  "files": [
+    "dist/*.js",
+    "package.json",
+    "README.md"
+  ],
+  "keywords": [
+    "mollitia",
+    "eum",
+    "voluptatum",
+    "inventore",
+    "library",
+    "eveniet",
+    "wgxpath",
+    "molestiae",
+    "facere"
+  ],
+  "author": "LilianaToy",
+  "license": "MIT",
+  "homepage": "https://github.com/LiaFlatley/nonmagnam.git",
+  "devDependencies": {
+    "google-closure-compiler": "^20160315.2.0",
+    "google-closure-library": "^20160315.0.0",
+    "gulp": "^3.9.1"
+  }
+}
